@@ -19,6 +19,6 @@ phases:
     commands:
       - echo Build completed on `date`
 artifacts:
-    files:
-    - myFirstDemo.jar   
+  files:
+    - myFirstDemo-1.0.jar
   discard-paths: yes
